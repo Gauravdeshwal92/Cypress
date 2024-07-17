@@ -1,0 +1,20 @@
+{
+  "email": "Jacinto_Graham@hotmail.com",
+  "password": "TestTest@123",
+  "loginEmail": "gauarv11@gmail.com",
+  "loginPassword": "TestTest@123",
+  "menShortsProduct": [
+    "Pierce Gym Short"
+  ],
+  "size": 32,
+  "color": "Gray",
+  "streetAddress": "6 Huon",
+  "city": "Melbourne",
+  "state": "New York",
+  "zipCode": "3029",
+  "phoneNumber": "0470377777",
+  "firstName": "Brooklyn",
+  "lastName": "Herzog",
+  "firstname": "Troy",
+  "lastname": "Quigley"
+}
